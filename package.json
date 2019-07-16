@@ -5,15 +5,15 @@
   "homepage": "https://akinari1223.github.io",
   "dependencies": {
     "babel-polyfill": "^6.26.0",
-    "gh-pages": "^1.1.0",
-    "lodash": "4.17.13",
+    "gh-pages": "^2.0.1",
+    "lodash": "4.17.14",
     "lodash.template": "^4.5.0",
     "mem": "^5.1.1",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
-    "react-render-in-browser": "^0.2.0",
-    "react-router-dom": "^4.2.2",
-    "react-scripts": "1.1.4"
+    "react-render-in-browser": "^1.1.1",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.0.1"
   },
   "scripts": {
     "predeploy": "yarn run build",
